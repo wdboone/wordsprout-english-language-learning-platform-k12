@@ -1,0 +1,18 @@
+{
+  "name": "wordsprout",
+  "version": "1.0.0",
+  "description": "WordSprout K-12/adult ELL platform — local jsdom smoke-test suite",
+  "main": "index.html",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/run.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^30.0.1"
+  }
+}
